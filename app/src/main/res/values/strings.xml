@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DaehunTask</string>
+    <string name="accessibility_service_description">Allows DaehunTask to replay recorded taps as gestures.</string>
+</resources>
